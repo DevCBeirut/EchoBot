@@ -13,8 +13,15 @@ This was part of the Facebook Developer Circle: Beirut. This tutorial is gonna b
 ## Description
 This bot is a simple repeat after me. The bot simply sends back what the individual sends to it. The session will take 45 minutes from setting up the bot to testing and executing the code.
 
+## The main URLs
+* To Send a message
+> https://api.telegram.org/bot444874958:AAGjLuhNCjvZGJkNnwCCP5c4cffIMy_vkNA/sendMessage?text={}&chat_id={}&parse_mode=markdown
+
+* To Receive Messages
+>https://api.telegram.org/bot444874958:AAGjLuhNCjvZGJkNnwCCP5c4cffIMy_vkNA/getUpdates
+
 ## Extra Resources
 * https://core.telegram.org/bots/api
 * https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay
 * You could later on integrate a NLP library like RASA (https://rasa.ai) or wit (https://wit.ai/ ). There are multiple ones but these are free and open sourced.
-* If you plan on hosting the code somewhere. Heroku provides free cloud computing. 
+* If you plan on hosting the code somewhere. Heroku provides free cloud computing.
