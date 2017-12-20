@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "result": [{
+    "update_id": 253818743,
+    "message": {
+      "message_id": 706,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1513613172,
+      "text": "/start",
+      "entities": [{
+        "offset": 0,
+        "length": 6,
+        "type": "bot_command"
+      }]
+    }
+  }, {
+    "update_id": 253818744,
+    "message": {
+      "message_id": 707,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1513613176,
+      "text": "Hey"
+    }
+  }]
+}
